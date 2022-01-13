@@ -1,0 +1,4 @@
+1. Declare a Doctype -The doctype declaration tells the browser about the HTMl standars you will be using and helps it read and render your markup corrently. 
+The <title> tag -- Use meanigful title tags as they help make a web page more meaningful and serach engine friendly. 
+Use Descriptve Meta Tags > The description meta attributes describes the basic purpose of the webpage , a summaary of what the web page contains. Use a consice and relevant summary inside the the meta descritption 
+Use Dics to Divide your layout into Major sections.  Consider dividing your web page into major sections as the first step in constructing a website design. Doing so from the start promotes clean and well-indented code. It will also help you avoid confusion and excess use of divs, especially if you are writing complex and lengthy markup.
